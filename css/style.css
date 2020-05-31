@@ -453,6 +453,7 @@ img {
   border-radius: 4px;
   width: 170px;
   height: 90px;
+  cursor: pointer;
 }
 
 .customer-item:not(:last-child) {
