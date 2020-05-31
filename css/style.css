@@ -456,6 +456,10 @@ img {
   cursor: pointer;
 }
 
+.customer-item a {
+  display: flex;
+}
+
 .customer-item:not(:last-child) {
   margin-right: 30px;
 }
