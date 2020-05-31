@@ -168,10 +168,12 @@ img {
 
 /* Hero */
 .hero {
+  display: block;
+  margin: 0 auto;
   max-width: 1600px;
   height: 600px;
-  margin-left: 0;
-  margin-right: 0;
+  /* margin-left: auto;
+  margin-right: auto; */
   text-align: center;
   background-color: #ccc;
   background-image: linear-gradient(
